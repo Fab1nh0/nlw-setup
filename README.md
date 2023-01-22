@@ -16,7 +16,7 @@ NLW é um evento exclusivo e gratuito, promovido pela Rocketseat para ensino de 
   <img alt="projeto Habits" src=".github/preview.png" width="100%">
 </p>
 
-## 🚀 Tecnologias
+## Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -25,10 +25,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Git e Github
 - Figma
 
-## 💻 Projeto
+## Projeto
 
 O Habits é um app para ajudar a rastrear os hábitos.
 
-## 🔖 Layout
+## Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1195327109778210238). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
